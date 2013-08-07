@@ -59,3 +59,5 @@ The project's goal is to elminate the above issues by :
 * Fully documented Web Services API to create your own clients and/or server
 * Support multiple sites from a single server
 
+## Version 1.0 Requirements
+
