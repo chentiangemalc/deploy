@@ -5,15 +5,18 @@ Software Deployment
 
 # Table of Contents
 
-# Team Members[#team-members]
+# Team Members
 
 * Malcolm McCaffery, Project Creator/Owner
 
 # Overview
 
+This project is currently in the design phase.
+
 ## Project Goal
 
-The goal of the deploy project is to create the client and server compoenents of an enterprise class software deployment and management toolset that is:
+The goal of the deploy project is to create the client and server compoenents of an enterprise class software
+deployment solution that is: and management toolset that is:
 
 * free
 * compact
@@ -22,7 +25,15 @@ The goal of the deploy project is to create the client and server compoenents of
 * simple
 * reliable
 
-The catalyst for developing this comes after the Project Owner's extensive experience with popular enterprise software management tools:
+It must support:
+
+* remote software installation/removal
+* hardware / software reporting
+* desired configuration reportingg
+* desktop & mobile device management
+
+The catalyst for developing this comes after the Project Owner's extensive experience with popular enterprise 
+software management tools:
 
 * SMS 
 * SCCM (2007 & 2012)
@@ -56,8 +67,8 @@ The project's goal is to elminate the above issues by :
 * Server 100% Linux + MariaDB platform
 * KISS approach (Keep It Simple Stupid)
 * 100% Native Code (i.e. C++, avoid managed code)
-* Fully documented Web Services API to create your own clients and/or server
+* Fully documented API to create your own clients and/or server
 * Support multiple sites from a single server
 
-## Version 1.0 Requirements
+
 
