@@ -16,7 +16,7 @@ This project is currently in the design phase.
 ## Project Goal
 
 The goal of the deploy project is to create the client and server compoenents of an enterprise class software
-deployment solution that is: and management toolset that is:
+deployment and management solution that is: 
 
 * free
 * compact
