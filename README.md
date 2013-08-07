@@ -29,7 +29,7 @@ It must support:
 
 * remote software installation/removal
 * hardware / software reporting
-* desired configuration reportingg
+* desired configuration auditing
 * desktop & mobile device management
 
 The catalyst for developing this comes after the Project Owner's extensive experience with popular enterprise 
