@@ -76,52 +76,52 @@ Initially focus on clients for Windows and MacOS, and management of Apple & Andr
 
 ## Design Phase - Part 1
 
-[ ] Identify what types of data will need to be stored in database
-[ ] Identify storage method for software packages
-[ ] Identify whst types of commands will need to be sent between client and server
-[ ] Identify Default Linux Distribution for Server
-[ ] Identify options for multi-site support
-[ ] Identify options for iOS and Android device management
+- [ ] Identify what types of data will need to be stored in database
+- [ ] Identify storage method for software packages
+- [ ] Identify whst types of commands will need to be sent between client and server
+- [ ] Identify Default Linux Distribution for Server
+- [ ] Identify options for multi-site support
+- [ ] Identify options for iOS and Android device management
 
 ## Design Phase - Part 2
 
-[ ] Database Schema Detailed Design
-[ ] Client/Server Protocol Detailed Design
-[ ] Multi-Site Support Detailed Design
-[ ] Management User Interface High Level Design
-[ ] Identify suitable C++ Libraries for build phase
+- [ ] Database Schema Detailed Design
+- [ ] Client/Server Protocol Detailed Design
+- [ ] Multi-Site Support Detailed Design
+- [ ] Management User Interface High Level Design
+- [ ] Identify suitable C++ Libraries for build phase
 
 ## Build Phase - Part 1 - PoC (Alpha 0.1)
 
 The PoC should support the following:
 
-[ ] Create Software Package via Web Interface, importing MSI + MST
-[ ] Push client to remote Windows Machine
-[ ] Query hardware of remote Windows machine via Web Interface
-[ ] Deploy Software Package to remote Windows Machine
-[ ] Report Software Package installation success/failure + install logs via Web Interface
+- [ ] Create Software Package via Web Interface, importing MSI + MST
+- [ ] Push client to remote Windows Machine
+- [ ] Query hardware of remote Windows machine via Web Interface
+- [ ] Deploy Software Package to remote Windows Machine
+- [ ] Report Software Package installation success/failure + install logs via Web Interface
 
 ## Build Phase - Part 2  PoC (Alpha 0.2)
 
-[ ] Create Software Package via Web Interface, importing MacOS Software Package
-[ ] Push client to remote MacOS Machine
-[ ] Query hardware of remote MacOS machine via Web interface
-[ ] Deploy Software Package to remote MacOS machine
-[ ] Report Software Package installtion success/failure + install logs via Web Interface
+- [ ] Create Software Package via Web Interface, importing MacOS Software Package
+- [ ] Push client to remote MacOS Machine
+- [ ] Query hardware of remote MacOS machine via Web interface
+- [ ] Deploy Software Package to remote MacOS machine
+- [ ] Report Software Package installtion success/failure + install logs via Web Interface
 
 ## Build Phase - Part 3 - PoC (Alpha 0.3)
 
-[ ] Support iOS Device Management
+- [ ] Support iOS Device Management
 
 ## Build Phase - Part 4 - PoC (Alpha 0.4)
 
-[ ] Support Android Device Management
+- [ ] Support Android Device Management
 
 ## Build Phase - Part 5 - PoC (Alpha 0.5)
 
-[ ] Implement multi-site support
+- [ ] Implement multi-site support
 
 ## Review Phae (PoC)
 
-[ ] Actively seek new project contributors to assist with project
-[ ] Review PoC mplementation and develop plans and requirements for a Beta 1.0 releae.
+- [ ] Actively seek new project contributors to assist with project
+- [ ] Review PoC mplementation and develop plans and requirements for a Beta 1.0 releae.
