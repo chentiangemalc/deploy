@@ -1,9 +1,7 @@
 deploy
 ======
 
-Software Deployment
-
-# Table of Contents
+Make Software Deployment A Breeze
 
 # Team Members
 
@@ -37,6 +35,7 @@ software management tools:
 
 * SMS 
 * SCCM (2007 & 2012)
+* ManageSoft
 * CA ITCM
 * Altiris
 * ZenWorks
@@ -60,6 +59,7 @@ And finding frustration in ...
 * Large Client (100 MB +)
 * Poor multi-platform support
 * Costly Infrastructure requried for multi-site support
+* Documenting Designs
 * Slow Performance
 
 The project's goal is to elminate the above issues by :
@@ -69,8 +69,10 @@ The project's goal is to elminate the above issues by :
 * 100% Native Code (i.e. C++, avoid managed code)
 * Fully documented API to create your own clients and/or server
 * Support multiple sites from a single server
+* Self-documenting i.e. export "design" in ready-to-use format 
 
 Initially focus on clients for Windows and MacOS, and management of Apple & Android mobile devices.
+
 
 # Project Tasks
 
@@ -91,7 +93,7 @@ Initially focus on clients for Windows and MacOS, and management of Apple & Andr
 - [ ] Management User Interface High Level Design
 - [ ] Identify suitable C++ Libraries for build phase
 
-## Build Phase - Part 1 - PoC (Alpha 0.1)
+## Build Phase - Part 1 - PoC - Alpha 0.1
 
 The PoC should support the following:
 
@@ -101,7 +103,7 @@ The PoC should support the following:
 - [ ] Deploy Software Package to remote Windows Machine
 - [ ] Report Software Package installation success/failure + install logs via Web Interface
 
-## Build Phase - Part 2  PoC (Alpha 0.2)
+## Build Phase - Part 2 - PoC - Alpha 0.2
 
 - [ ] Create Software Package via Web Interface, importing MacOS Software Package
 - [ ] Push client to remote MacOS Machine
@@ -109,19 +111,19 @@ The PoC should support the following:
 - [ ] Deploy Software Package to remote MacOS machine
 - [ ] Report Software Package installtion success/failure + install logs via Web Interface
 
-## Build Phase - Part 3 - PoC (Alpha 0.3)
+## Build Phase - Part 3 - PoC - Alpha 0.3
 
 - [ ] Support iOS Device Management
 
-## Build Phase - Part 4 - PoC (Alpha 0.4)
+## Build Phase - Part 4 - PoC - Alpha 0.4
 
 - [ ] Support Android Device Management
 
-## Build Phase - Part 5 - PoC (Alpha 0.5)
+## Build Phase - Part 5 - PoC - Alpha 0.5
 
 - [ ] Implement multi-site support
 
-## Review Phae (PoC)
+## Review Phase (PoC)
 
 - [ ] Actively seek new project contributors to assist with project
-- [ ] Review PoC mplementation and develop plans and requirements for a Beta 1.0 releae.
+- [ ] Review PoC implementation and develop plans and requirements for a Beta 1.0 releae.
