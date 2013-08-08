@@ -73,7 +73,6 @@ The project's goal is to elminate the above issues by :
 
 Initially focus on clients for Windows and MacOS, and management of Apple & Android mobile devices.
 
-
 # Project Tasks
 
 ## Design Phase - Part 1
@@ -84,6 +83,9 @@ Initially focus on clients for Windows and MacOS, and management of Apple & Andr
 - [ ] Identify Default Linux Distribution for Server
 - [ ] Identify options for multi-site support
 - [ ] Identify options for iOS and Android device management
+- [ ] Identify options for virtualized software support
+- [ ] Identify options for "multi-tenant cloud based" solution
+- [ ] Identify options for Citrix Integration, and open source alternatives
 
 ## Design Phase - Part 2
 
