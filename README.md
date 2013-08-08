@@ -86,6 +86,7 @@ Initially focus on clients for Windows and MacOS, and management of Apple & Andr
 - [ ] Identify options for virtualized software support
 - [ ] Identify options for "multi-tenant cloud based" solution
 - [ ] Identify options for Citrix Integration, and open source alternatives
+- [ ] Identify options for bandwidth throttling
 
 ## Design Phase - Part 2
 
